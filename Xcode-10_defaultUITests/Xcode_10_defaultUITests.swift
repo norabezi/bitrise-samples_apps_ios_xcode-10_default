@@ -3,7 +3,7 @@
 //  Xcode-10_defaultUITests
 //
 //  Created by Akos Birmacher on 2019. 01. 25..
-//  Copyright © 2019. Bitrise. All rights reserved.
+//  Copyright © 2019. Bitrise. All rights reserved.hgfhg
 //
 
 import XCTest
